@@ -294,7 +294,7 @@ const roadmapData: RoadmapTrack[] = [
       {
         id: "statistics",
         title: "Statistics & Probability",
-        description: "Learn statistical analysis and hypothesis testing",
+        description: "Learn statistical analysis",
         completed: false,
         resources: ["Statistics Textbook", "Khan Academy Stats"],
         difficulty: "Intermediate",
